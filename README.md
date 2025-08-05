@@ -31,20 +31,23 @@ Prefix: `?`
 - ?info — User info (limited for privacy)
 
 📢 Server Management
-/announce — Send an announcement to a specific channel
+- /announce — Send an announcement to a specific channel
 
-/serverinfo — Server stats and metadata
+- /serverinfo — Server stats and metadata
 
 💬 Fun Commands
-hello — Bot greets you
+`hello — Bot greets you`
 
-cmd?L — Lists all slash commands
+`cmd?L — Lists all slash commands`
 
+----
 🛠️ Installation
 ⚙️ Requirements
 Python 3.10 or above
 
-discord.py library
+``` bash
+pip install discord.py
+```
 
 🔧 Setup
 ```bash
@@ -60,20 +63,20 @@ Make sure you have your bot token set inside a tokin.py file like:
 ```
 
 
-🤝 Commands List
-Type	Command	Description
-🔨 Mod	/kick, /ban	Kick or ban a user
-🔓 Admin	/lock, /unlock	Lock or unlock channels
-🚫 Timeout	/timeout	Timeout user for X minutes
-👤 User	/avatar	Show avatar of a user
-⚠️ Warning	/warn, ?warn	Send warning via DM
-🚧 Server	/serverinfo	Display server stats
-📢 Utility	/announce, ?add	Broadcast messages
-💣 Nuker	/nuke	Delete and recreate current channel
-🧹 Clear	/clear	Purge recent messages
-💤 AFK	/afk, ?afk	Set AFK status
+## 🤝 Commands List
+<p>Type	Command	Description</p>
+- 🔨 Mod	/kick, /ban	Kick or ban a user
+- 🔓 Admin	/lock, /unlock	Lock or unlock channels
+- 🚫 Timeout	/timeout	Timeout user for X minutes
+- 👤 User	/avatar	Show avatar of a user
+- ⚠️ Warning	/warn, ?warn	Send warning via DM
+- 🚧 Server	/serverinfo	Display server stats
+- 📢 Utility	/announce, ?add	Broadcast messages
+- 💣 Nuker	/nuke	Delete and recreate current channel
+- 🧹 Clear	/clear	Purge recent messages
+- 💤 AFK	/afk, ?afk	Set AFK status
 
-Slash and prefix versions available for most commands.
+### Slash and prefix versions available for most commands.
 
 🌐 Invite Rusky Bot
 👉 <a href="https://discord.com/oauth2/authorize?client_id=1401949547504337057&permissions=8&integration_type=0&scope=bot">Invite me to your server</a>
