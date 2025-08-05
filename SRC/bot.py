@@ -7,7 +7,7 @@ from discord import app_commands
 from datetime import timedelta
 import tokin
 
-
+"""Discord Portal create your discord application = https://discord.com/developers/applications"""
 # Intents are required for receiving certain events
 intents = discord.Intents.all()
 intents.messages = True
@@ -940,3 +940,4 @@ async def warn_error(ctx, error):
 
 # Run the bot
 bot.run(bot_tokin)
+
