@@ -88,6 +88,6 @@ Make sure you have your bot token set inside a tokin.py file like:
 🐛 Report bugs via Issues
 
 📄 License
-This project is licensed under the GNU License.
+This project is licensed under the GPL License.
 
 - 💡 Bot developed by Rusky Community with ❤️ by Rustam Singh Bhadouriya
