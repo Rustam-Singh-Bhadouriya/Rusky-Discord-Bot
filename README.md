@@ -1,13 +1,13 @@
 
 🤖 Rusky Discord Bot
 All-in-one Discord Moderation & Utility Bot
-- 💥 Kick | Ban | AFK | Avatar | Warn | Clear | Nuke | Timeout | Server Info and more!
+- 💥 `Kick` | `Ban `| `AFK` | `Avatar` | `Warn` | `Clear` | `Nuke` | `Timeout` | Server Info and more!
 
 🔥 Overview
 <p>Rusky Bot is a fully-featured moderation and server utility bot built using discord.py. It supports slash commands and prefix-based commands for flexibility.</p>
 
 Prefix: `?`
-- Try /help or ?Help or ?help for the command list!
+- Try `/help` or `?Help` or `?help` for the command list!
 
 🚀 Features
 🎮 Moderation
