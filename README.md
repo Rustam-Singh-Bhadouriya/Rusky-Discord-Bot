@@ -1,50 +1,53 @@
 
 🤖 Rusky Discord Bot
 All-in-one Discord Moderation & Utility Bot
-💥 Kick | Ban | AFK | Avatar | Warn | Clear | Nuke | Timeout | Server Info and more!
+- 💥 `Kick` | `Ban `| `AFK` | `Avatar` | `Warn` | `Clear` | `Nuke` | `Timeout` | Server Info and more!
 
 🔥 Overview
-Rusky Bot is a fully-featured moderation and server utility bot built using discord.py. It supports slash commands and prefix-based commands for flexibility.
+<p>Rusky Bot is a fully-featured moderation and server utility bot built using discord.py. It supports slash commands and prefix-based commands for flexibility.</p>
 
-Prefix: ?
-Try /help or ?Help or ?help for the command list!
+Prefix: `?`
+- Try `/help` or `?Help` or `?help` for the command list!
 
 🚀 Features
 🎮 Moderation
-/kick, /ban, /unban
+- /kick, /ban, /unban
 
-?kick, ?ban, ?warn
+- ?kick, ?ban, ?warn
 
-/timeout (temporary mute)
+- /timeout (temporary mute)
 
-/clear (bulk message delete)
+- /clear (bulk message delete)
 
-/nuke (channel reset)
+- /nuke (channel reset)
 
-/lock, /unlock
+- /lock, /unlock
 
 👤 User Utilities
-/avatar — View anyone’s profile picture
+- /avatar — View anyone’s profile picture
 
-/afk — Set AFK status with reason
+- /afk — Set AFK status with reason
 
-?info — User info (limited for privacy)
+- ?info — User info (limited for privacy)
 
 📢 Server Management
-/announce — Send an announcement to a specific channel
+- /announce — Send an announcement to a specific channel
 
-/serverinfo — Server stats and metadata
+- /serverinfo — Server stats and metadata
 
 💬 Fun Commands
-hello — Bot greets you
+`hello — Bot greets you`
 
-cmd?L — Lists all slash commands
+`cmd?L — Lists all slash commands`
 
+----
 🛠️ Installation
 ⚙️ Requirements
 Python 3.10 or above
 
-discord.py library
+``` bash
+pip install discord.py
+```
 
 🔧 Setup
 ```bash
@@ -60,20 +63,19 @@ Make sure you have your bot token set inside a tokin.py file like:
 ```
 
 
-🤝 Commands List
-Type	Command	Description
-🔨 Mod	/kick, /ban	Kick or ban a user
-🔓 Admin	/lock, /unlock	Lock or unlock channels
-🚫 Timeout	/timeout	Timeout user for X minutes
-👤 User	/avatar	Show avatar of a user
-⚠️ Warning	/warn, ?warn	Send warning via DM
-🚧 Server	/serverinfo	Display server stats
-📢 Utility	/announce, ?add	Broadcast messages
-💣 Nuker	/nuke	Delete and recreate current channel
-🧹 Clear	/clear	Purge recent messages
-💤 AFK	/afk, ?afk	Set AFK status
+## 🤝 Commands List
+- 🔨 Mod	/kick, /ban	Kick or ban a user
+- 🔓 Admin	/lock, /unlock	Lock or unlock channels
+- 🚫 Timeout	/timeout	Timeout user for X minutes
+- 👤 User	/avatar	Show avatar of a user
+- ⚠️ Warning	/warn, ?warn	Send warning via DM
+- 🚧 Server	/serverinfo	Display server stats
+- 📢 Utility	/announce, ?add	Broadcast messages
+- 💣 Nuker	/nuke	Delete and recreate current channel
+- 🧹 Clear	/clear	Purge recent messages
+- 💤 AFK	/afk, ?afk	Set AFK status
 
-Slash and prefix versions available for most commands.
+### Slash and prefix versions available for most commands.
 
 🌐 Invite Rusky Bot
 👉 <a href="https://discord.com/oauth2/authorize?client_id=1401949547504337057&permissions=8&integration_type=0&scope=bot">Invite me to your server</a>
@@ -86,6 +88,6 @@ Slash and prefix versions available for most commands.
 🐛 Report bugs via Issues
 
 📄 License
-This project is licensed under the GNU License.
+This project is licensed under the GPL License.
 
 - 💡 Bot developed by Rusky Community with ❤️ by Rustam Singh Bhadouriya
