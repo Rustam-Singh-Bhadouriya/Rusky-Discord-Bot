@@ -64,7 +64,6 @@ Make sure you have your bot token set inside a tokin.py file like:
 
 
 ## 🤝 Commands List
-<p>Type	Command	Description</p>
 - 🔨 Mod	/kick, /ban	Kick or ban a user
 - 🔓 Admin	/lock, /unlock	Lock or unlock channels
 - 🚫 Timeout	/timeout	Timeout user for X minutes
